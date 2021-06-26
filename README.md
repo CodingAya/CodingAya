@@ -4,11 +4,12 @@
 
 - 🔭 I’m currently working on a portfolio website
 - 👯 I’m looking to collaborate on AI projects
+- 🌱 I’m currently learning ML and DL
 <!--
 **CodingAya/CodingAya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
+
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
