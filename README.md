@@ -1,11 +1,9 @@
 ## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 #### My name is Aya and I'm a CS and Microelectronics engineering student @EMSE. Here's some info about me!
-<br>
 
 ### 🔭 Current project:
 - Building a portfolio website
-<br>
 
 ### 🛠️ Languages and Tools:
 [<code><img height="30" src="https://github.com/CodingAya/CodingAya/assets/81169209/6dc76d0e-f9a3-42e4-adc5-037fe6316d24"></code>]
@@ -21,14 +19,11 @@
 [<code><img height="30" src="https://github.com/CodingAya/CodingAya/assets/81169209/fafbafad-e9bf-4781-bf18-a3896b245129"></code>]
 [<code><img height="30" src="https://github.com/CodingAya/CodingAya/assets/81169209/684b8f83-689c-4b01-a35c-48307f19f92c"></code>]
 
-<br>
-
 ### 🌱 Interests:
 - Machine Learning
 - Artificial Intelligence
 - Computer Vision
 - Robotics
-<br>
 
 ### 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/aya-el-janoussi) !
 
