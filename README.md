@@ -12,6 +12,10 @@
 **Languages and Tools:**  
 ![Keras]([image_path](https://github.com/CodingAya/CodingAya/keras.png))
 [<code><img height="30" src="https://github.com/CodingAya/CodingAya/master/python.png" ></code>]
+
+![tensorflow](https://github.com/CodingAya/CodingAya/assets/81169209/6793e746-1f2a-40fd-9af1-ec4478794e52)
+
+
 [<code><img height="30" src="https://github.com/CodingAya/CodingAya/master/tensorflow.png"></code>]
 [<code><img height="30" src="https://github.com/CodingAya/CodingAya/master/keras.png"></code>]
 [<code><img height="30" src="https://github.com/CodingAya/CodingAya/master/scikit_learn.png "></code>]
