@@ -2,6 +2,8 @@
 
 #### My name is Aya and I'm a CS and Microelectronics engineering student @EMSE. Here's some info about me!
 
+<br>
+
 🔭 Current project:
 - Building a portfolio website
 
