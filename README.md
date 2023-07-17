@@ -34,6 +34,6 @@
 
 <br>
 
-💬 Connect with me on LinkedIn! www.linkedin.com/in/aya-el-janoussi
+💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/aya-el-janoussi) !
 
 
