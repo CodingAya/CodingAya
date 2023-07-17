@@ -15,7 +15,7 @@
 [<code><img height="30" src="https://github.com/CodingAya/CodingAya/master/tensorflow.png"></code>]
 [<code><img height="30" src="https://github.com/CodingAya/CodingAya/master/keras.png"></code>]
 [<code><img height="30" src="https://github.com/CodingAya/CodingAya/master/scikit_learn.png "></code>]
-[<code><img height="30" src="https://github.com/CodingAya/CodingAya/master/C++.png?raw=true"></code>]
+[<code><img height="30" src="[https://github.com/CodingAya/CodingAya/master/C++.png](https://github.com/CodingAya/CodingAya/blob/main/C%2B%2B.png)?raw=true"></code>]
 [<code><img height="30" src="https://github.com/CodingAya/CodingAya/blob/master/C.png?raw=true"></code>]
 [<code><img height="30" src="https://github.com/CodingAya/CodingAya/blob/master/C.png?raw=true"></code>]
 [<code><img height="30" src="https://github.com/CodingAya/CodingAya/blob/master/Java.png?raw=true"></code>]
