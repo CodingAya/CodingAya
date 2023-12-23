@@ -20,10 +20,9 @@
 [<code><img height="30" src="https://github.com/CodingAya/CodingAya/assets/81169209/684b8f83-689c-4b01-a35c-48307f19f92c"></code>]
 
 ### 🌱 Interests:
+- Data Science/ Data Engineering/ Data Analysis
 - Machine Learning
 - Artificial Intelligence
-- Computer Vision
-- Robotics
 
 ### 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/aya-el-janoussi) !
 
