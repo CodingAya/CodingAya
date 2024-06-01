@@ -1,6 +1,6 @@
 ## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
-#### My name is Aya and I'm a CS and Microelectronics engineering student @EMSE.
+#### My name is Aya and I'm a final-year Computer Science engineering student @EMSE.
 
 ### 🔭 Current project:
 - Building a portfolio website
